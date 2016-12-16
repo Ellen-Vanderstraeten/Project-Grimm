@@ -1,4 +1,4 @@
 project Grimm
 =============
 
-Project data for Python introduction.
+Project data for Python introduction
